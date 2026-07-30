@@ -6,13 +6,11 @@ I'm currently seeking opportunities as an **AI Engineer** or **Machine Learning 
 
 
 ## Featured Project
-```
 
 <p align="center">
   <img src="images/ECHO-homepage.jpg" alt="ECHO Homepage" width="100%">
 </p>
 
-```
 ### E.C.H.O. — Every Capture Has Origins
 *A multimodal AI platform for the interactive exploration of Ancient Egypt.*
 
