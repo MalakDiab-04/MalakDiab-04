@@ -5,13 +5,12 @@ Artificial Intelligence-focused Computer Science graduate, ranked 1st in the AI 
 I'm currently seeking opportunities as an **AI Engineer** or **Machine Learning Engineer**.
 
 
-## Featured Project
+## E.C.H.O. — Every Capture Has Origins
 
 <p align="center">
   <img src="images/ECHO-homepage.jpg" alt="ECHO Homepage" width="100%">
 </p>
 
-### E.C.H.O. — Every Capture Has Origins
 *A multimodal AI platform for the interactive exploration of Ancient Egypt.*
 
 The platform integrates four AI modules into a single web application:
@@ -31,6 +30,11 @@ The platform integrates four AI modules into a single web application:
 **Tech Stack**
 
 Python · FastAPI · React · Docker · PostgreSQL · pgVector · TensorFlow · LangChain · Qwen · Llama · Edge-TTS
+
+**Repository:** Coming Soon
+**Marketing Video:** Coming Soon
+
+Developed as an A+ graduation project to make Ancient Egyptian history more accessible through multimodal artificial intelligence.
 
 ---
 
@@ -67,9 +71,13 @@ Machine learning application comparing multiple supervised learning algorithms.
 ## Technical Skills
 
 **Languages:** Python, SQL, C++  
+
 **AI/ML:** TensorFlow, Keras, Scikit-learn, OpenCV, Pandas, NumPy  
-**Generative AI:** LLMs, RAG, LangChain  
+
+**Generative AI:** LLMs, RAG, LangChain 
+
 **Backend & Deployment:** PostgreSQL, pgVector, FastAPI, Docker 
+
 **Tools:** Git, Power BI, Oracle APEX
 
 ## Connect with me
