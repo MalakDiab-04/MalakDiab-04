@@ -8,7 +8,7 @@ I'm currently seeking opportunities as an **AI Engineer** or **Machine Learning 
 ## Featured Project
 ```
 <p align="center">
-  <img src="[YOUR_IMAGE_LINK](https://github.com/user-attachments/assets/96af71e1-b15a-49b4-ba9b-75bd0e4626f6)" width="100%">
+  <img src="[https://github.com/user-attachments/assets/96af71e1-b15a-49b4-ba9b-75bd0e4626f6]" width="100%">
 </p>
 
 ```
