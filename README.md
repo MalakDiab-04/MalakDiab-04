@@ -8,7 +8,9 @@ I'm currently seeking opportunities as an **AI Engineer** or **Machine Learning 
 ## Featured Project
 ```
 
-<img width="1280" height="648" alt="ECHO Homepage" src="https://github.com/user-attachments/assets/f631934f-556c-40db-8f0d-2b475cdbc3c5" />
+<p align="center">
+  <img src="images/ECHO-homepage.jpg" alt="ECHO Homepage" width="100%">
+</p>
 
 ```
 ### E.C.H.O. — Every Capture Has Origins
