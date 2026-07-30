@@ -1,17 +1,17 @@
 # Hi, I'm Malak Diab
 
-Computer Science graduate specializing in Artificial Intelligence, ranked 1st in the AI Department with a GPA of 3.98/4.0, holding a dual bachelor's degree from **Ain Shams University** and the **University of East London**.I am passionate about building end-to-end AI systems that combine **Machine Learning, Computer Vision, Generative AI, and Retrieval-Augmented Generation (RAG)** to solve real-world problems.
+Artificial Intelligence-focused Computer Science graduate, ranked 1st in the AI Department with a GPA of 3.98/4.0, holding a dual bachelor's degree from **Ain Shams University** and the **University of East London**. I am passionate about building end-to-end AI systems that combine **Machine Learning, Computer Vision, Generative AI, and Retrieval-Augmented Generation (RAG)** to solve real-world problems.
 
 I'm currently seeking opportunities as an **AI Engineer** or **Machine Learning Engineer**.
 
 
 ## Featured Project
 ```
-<img width="1280" height="648" alt="image" src="https://github.com/user-attachments/assets/96af71e1-b15a-49b4-ba9b-75bd0e4626f6" />
+<img width="1280" height="648" alt="image" src="https://github.com/user-attachments/assets/96af71e1-b15a-49b4-ba9b-75bd0e4626f6">
 
 ```
 ### E.C.H.O. — Every Capture Has Origins
-* A multimodal AI Platform for the Interactive Exploration of Ancient Egypt.*
+*A multimodal AI platform for the interactive exploration of Ancient Egypt.*
 
 The platform integrates four AI modules into a single web application:
 
@@ -28,20 +28,10 @@ The platform integrates four AI modules into a single web application:
 - Selected for the Faculty Graduation Projects Expo
 
 **Tech Stack**
-• Python • FastAPI • React • Docker • PostgreSQL • pgVector • TensorFlow • LangChain • Qwen • Llama • Edge-TTS
 
-**Demo**
-- 🌐 Website
-- 🎥 Demo Video
+Python · FastAPI · React · Docker · PostgreSQL · pgVector · TensorFlow · LangChain · Qwen · Llama · Edge-TTS
+
 ---
-
-## Technical Skills
-
-**Languages:** Python, SQL, C++  
-**AI/ML:** TensorFlow, Keras, Scikit-learn, OpenCV, Pandas, NumPy  
-**Generative AI:** LLMs, RAG, LangChain  
-**Backend & Deployment:** PostgreSQL, pgVector, FastAPI, Docker 
-**Tools:** Git, Power BI, Oracle APEX
 
 ## Other Projects
 
@@ -73,7 +63,15 @@ Machine learning application comparing multiple supervised learning algorithms.
 
 ---
 
+## Technical Skills
+
+**Languages:** Python, SQL, C++  
+**AI/ML:** TensorFlow, Keras, Scikit-learn, OpenCV, Pandas, NumPy  
+**Generative AI:** LLMs, RAG, LangChain  
+**Backend & Deployment:** PostgreSQL, pgVector, FastAPI, Docker 
+**Tools:** Git, Power BI, Oracle APEX
+
 ## Connect with me
 
-- LinkedIn: *https://www.linkedin.com/in/malak-diab*
+- LinkedIn: [malak-diab](https://www.linkedin.com/in/malak-diab)
 - Email: malak.amir.diab.0901@gmail.com
