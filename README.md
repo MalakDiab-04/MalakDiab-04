@@ -7,7 +7,9 @@ I'm currently seeking opportunities as an **AI Engineer** or **Machine Learning 
 
 ## Featured Project
 ```
-<img width="1280" height="648" alt="image" src="https://github.com/user-attachments/assets/96af71e1-b15a-49b4-ba9b-75bd0e4626f6">
+<p align="center">
+  <img src="[YOUR_IMAGE_LINK](https://github.com/user-attachments/assets/96af71e1-b15a-49b4-ba9b-75bd0e4626f6)" width="100%">
+</p>
 
 ```
 ### E.C.H.O. — Every Capture Has Origins
