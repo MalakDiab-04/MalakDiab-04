@@ -111,5 +111,5 @@ Machine learning application comparing multiple supervised learning algorithms.
 
 ## Connect with me
 
-- LinkedIn: [malak-diab](https://www.linkedin.com/in/malak-diab)
+- LinkedIn: [malak-diab](https://www.linkedin.com/in/malak-amir-diab)
 - Email: malak.amir.diab.0901@gmail.com
